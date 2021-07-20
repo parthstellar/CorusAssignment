@@ -87,6 +87,8 @@ class AWingViewController: UIViewController, UITableViewDelegate, UITableViewDat
     func numberOfSections(in tableView: UITableView) -> Int {
         return arrSections.count
     }
+    
+    
     /**
      * Tableview delegate method used to return number of rows
      */
